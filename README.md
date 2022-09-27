@@ -1,1 +1,1 @@
-# COVID19-ML-Project
+# COVID19-ML-Predictions
